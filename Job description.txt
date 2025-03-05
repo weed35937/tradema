@@ -1,0 +1,11 @@
+
+626 / 5,000
+I need to extract specific data (e.g. EMAs value, etc.) from the BingX and tradingview platform, which apparently does not offer a direct public API. I have inspected the requests in the Network tab (DevTools) of the browser and I see that the site makes calls to domains like https://api-swap.qq-os.com/..., but when I try to replicate them in Python, I get a 403 or a block by the firewall (WAF).
+
+Extract the JSON response (or whatever format) and return that data in Python (e.g. print it to the console in "REAL TIME")
+
+I am open to suggestions.
+Skills Required
+PHP
+JavaScript
+Python
